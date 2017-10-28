@@ -38,5 +38,9 @@
   "Todo": {
     "dataSource": "db",
     "public": true
+  },
+  "timesheet": {
+    "dataSource": "db",
+    "public": true
   }
 }
